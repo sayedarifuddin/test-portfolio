@@ -25,3 +25,11 @@ h1{
 section{
     height: 500px;
 }
+.link-button{
+    background-image: linear-gradient(lightsalmon, tomato);
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+
+}
